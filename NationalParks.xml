@@ -4,7 +4,7 @@
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
 		<Phone>888-297-2757</Phone>
-		<Phone>886-499-2574</Phone>
+		<Phone>866-499-2574</Phone>
 		<Address NearestAirport="FlagStaff">
 			<Number>8</Number>
 			<Street>S Entrance Road</Street>
@@ -27,20 +27,20 @@
 		</Address>
 	</NationalPark>
 		<!--#2 -->
-	<NationalPark Rating="">
-		<Name>Flight 93 National Memorial</Name>
+	<NationalPark>
+		<Name>Joshua Tree Natioal Park</Name>
 		<Phone>814-893-6322</Phone>
 		<Phone>814-893-6565</Phone>
 		<Address NearestAirport="Johnstown-Cambria County Airport">
-			<Number>6426</Number>
-			<Street>Lincoln Highway</Street>
-			<City>Stoystown</City>
-			<State>PA</State>
-			<Zip>15563</Zip>
+			<Number>74485</Number>
+			<Street>National Park Drive</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277-3597</Zip>
 		</Address>
 	</NationalPark>
 	<!--#3 -->
-	<NationalPark Rating="">
+	<NationalPark>
 		<Name>Yellowstone National Park</Name>
 		<Phone>307-344-7381</Phone>
 		<Phone>307-344-2000</Phone>
@@ -54,7 +54,7 @@
 	</NationalPark>
 
 	<!--#4 -->
-	<NationalPark Rating="">
+	<NationalPark>
 		<Name>Zion National Park</Name>
 		<Phone>435-772-3256</Phone>
 		<Address NearestAirport= "St George Regional Airport">
@@ -67,8 +67,8 @@
 	</NationalPark>
 
 	<!--#5 -->
-	<NationalPark Rating="">
-		<Name>Redwood</Name>
+	<NationalPark>
+		<Name>Redwood National Park</Name>
 		<Phone>707-464-6101</Phone>
 		<Phone>707-465-7335</Phone>
 		<Address NearestAirport="California Redwood Coast-Humboldt County Airport">
@@ -80,8 +80,8 @@
 		</Address>
 	</NationalPark>
 	<!--#6 -->
-	<NationalPark Rating="">
-		<Name>Acadia</Name>
+	<NationalPark>
+		<Name>Acadia National Park</Name>
 		<Phone>207-288-3338</Phone>
 		<Address NearestAirport="Hancock County-Bar Harbor Airport">
 			<Number>25</Number>
@@ -92,7 +92,7 @@
 		</Address>
 	</NationalPark>
 	<!--#7 -->
-	<NationalPark Rating="">
+	<NationalPark>
 		<Name>Olympic National Park</Name>
 		<Phone>360-565-3130</Phone>
 		<Address NearestAirport="Seattle-Tacoma International Airport">
@@ -105,8 +105,8 @@
 	</NationalPark>
 
 	<!--#8 -->
-	<NationalPark Rating="">
-		<Name>Hot Springs</Name>
+	<NationalPark>
+		<Name>Hot Springs National Park</Name>
 		<Phone>501-620-6715</Phone>
 		<Phone>501-620-6720</Phone>
 		<Address NearestAirport="Memorial Field Airport">
@@ -118,8 +118,8 @@
 		</Address>
 	</NationalPark>
 	<!--#9 -->
-	<NationalPark Rating="">
-		<Name>Big Bend</Name>
+	<NationalPark>
+		<Name>Big Bend National Park</Name>
 		<Phone>432-477-2251</Phone>
 		<Address NearestAirport="Midland International Air /Space Port">
 			<Number>1</Number>
@@ -131,7 +131,7 @@
 	</NationalPark>
 
 	<!--#10 -->
-	<NationalPark Rating="">
+	<NationalPark>
 		<Name>Voyageurs National Park</Name>
 		<Phone>218-283-6600</Phone>
 		<Address NearestAirport="Falls International Airport">
